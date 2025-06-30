@@ -43,7 +43,7 @@ Git & GitHub • VS Code • Postman • Canva
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/krithi-r-199471258/)  
 📧 krithirai02@gmail.com  
 
-Thanks for visiting my profile 😊
+Thank you for visiting my profile 😊
 
 <!--
 **Krithi-b-rai/Krithi-b-rai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
